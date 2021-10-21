@@ -1,3 +1,3 @@
 # democonflict
 
-Hello universe!
+Hello world is better, stop.
