@@ -1,3 +1,4 @@
 # democonflict
 
-Hello world is better, stop.
+Hello universe!
+Hello world is stoopid
